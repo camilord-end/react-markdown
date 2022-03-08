@@ -1,0 +1,13 @@
+/*.content-wrap {
+  display: flex;
+}
+.input-wrap{
+  width: 50%;
+  background-color: rgb(167, 191, 236);
+  height: 30em;
+  padding: 10px;
+}
+#editor {
+  width: 98%;
+  height: 80%;
+}*/

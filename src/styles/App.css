@@ -1,3 +1,11 @@
 .Tittle {
   text-align: center;
-}
+  justify-content: center;
+  border-radius: 2px;
+}/*
+.App {
+  background-color: rgb(167, 236, 188);
+  height: 93vh;
+  padding: 10px;
+  margin: 10px;
+}*/
